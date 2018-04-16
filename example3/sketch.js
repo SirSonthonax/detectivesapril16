@@ -15,7 +15,7 @@ let currenttime;
 let endtime;
 
 function preload() {
-  mapimage = loadImage('https://api.mapbox.com/styles/v1/mapbox/light-v9/static/'+
+  mapimage = loadImage('https://api.mapbox.com/styles/v1/mapbox/pirates/static/'+
             centerlongitude + "," +
             centerlatitude + "," +
             zoom + "/" +
